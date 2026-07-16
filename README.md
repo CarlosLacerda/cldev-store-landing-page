@@ -64,7 +64,7 @@ CLDev Store
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/cldev-store.git
+git clone https://github.com/carloslacerda/cldev-store.git
 ```
 
 Entre na pasta:
@@ -104,6 +104,6 @@ Este projeto foi desenvolvido para praticar conceitos de desenvolvimento front-e
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Carlos Lima**
+Desenvolvido por **Carlos Lacerda**
 
 Se este projeto foi útil ou inspirador para você, considere deixar uma ⭐ no repositório.
