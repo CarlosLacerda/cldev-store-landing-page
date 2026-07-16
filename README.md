@@ -2,6 +2,12 @@
 
 Uma landing page moderna inspirada na Apple, desenvolvida utilizando **HTML, CSS e JavaScript**. O projeto apresenta um carrossel interativo de produtos com animações suaves, design futurista e interface responsiva.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
 <p align="center">
   <img src="./capture/carrossel.gif" alt="Demonstração da CLDev Store" width="100%">
 </p>
@@ -22,12 +28,15 @@ Uma landing page moderna inspirada na Apple, desenvolvida utilizando **HTML, CSS
 ## 🖥️ Demonstração
 
 ### Apple Watch Series 10
+
 <img src="./capture/1.png" width="100%">
 
 ### AirPods Max
+
 <img src="./capture/2.png" width="100%">
 
 ### Apple Vision Pro
+
 <img src="./capture/3.png" width="100%">
 
 ---
@@ -42,7 +51,7 @@ Uma landing page moderna inspirada na Apple, desenvolvida utilizando **HTML, CSS
 
 ## 📂 Estrutura do projeto
 
-```
+```text
 CLDev Store
 │
 ├── capture/
@@ -63,17 +72,18 @@ CLDev Store
 ## ▶️ Como executar
 
 Clone o repositório:
+
 ```bash
 git clone https://github.com/CarlosLacerda/cldev-store-landing-page.git
 ```
 
 Entre na pasta:
+
 ```bash
-cd cldev-store
+cd cldev-store-landing-page
 ```
 
-Abra o arquivo `index.html` em qualquer navegador.
-Ou utilize a extensão **Live Server** do VS Code para desenvolvimento.
+Abra o arquivo `index.html` em qualquer navegador ou utilize a extensão **Live Server** do VS Code.
 
 ---
 
@@ -93,12 +103,12 @@ Este projeto foi desenvolvido para praticar conceitos de desenvolvimento front-e
 
 ## 🔮 Melhorias futuras
 
-- Carrinho de compras
-- Página individual dos produtos
-- Integração com API
-- Modo escuro/claro
-- Menu mobile
-- Filtros de produtos
+- [ ] Carrinho de compras
+- [ ] Página individual dos produtos
+- [ ] Integração com API
+- [ ] Modo escuro/claro
+- [ ] Menu mobile
+- [ ] Filtros de produtos
 
 ---
 
