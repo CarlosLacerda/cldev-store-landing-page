@@ -64,7 +64,7 @@ CLDev Store
 
 Clone o repositório:
 ```bash
-git clone https://github.com/carloslacerda/cldev-store.git
+git clone https://github.com/CarlosLacerda/cldev-store-landing-page.git
 ```
 
 Entre na pasta:
